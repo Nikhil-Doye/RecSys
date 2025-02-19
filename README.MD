@@ -4,6 +4,7 @@ This project implements a personalized recommendation system for an e-commerce p
 
 ### Project Structure
 
+```
 project/
 ├── data/
 │ ├── train.parquet
@@ -20,7 +21,7 @@ project/
 ├── app.py
 ├── requirements.txt
 └── README.md
-
+```
 ### Setup and Installation
 
 1. **Clone the repository.**
